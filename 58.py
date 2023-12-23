@@ -7,14 +7,13 @@ class Solution:
 
         
 solution_instance = Solution()
+
 result = solution_instance.lengthOfLastWord("Hello World")
 print(result)
 
-solution_instance = Solution()
 result = solution_instance.lengthOfLastWord("   fly me   to   the moon  ")
 print(result)
 
-solution_instance = Solution()
 result = solution_instance.lengthOfLastWord("luffy is still joyboy")
 print(result)
 
