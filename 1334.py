@@ -40,3 +40,11 @@ class Solution:
         return res
     
 
+solution_instance = Solution()
+
+result = solution_instance.findTheCity(n = 4, edges = [[0,1,3],[1,2,1],[1,3,4],[2,3,1]], distanceThreshold = 4)
+print(result)
+
+result = solution_instance.findTheCity(n = 5, edges = [[0,1,2],[0,4,8],[1,2,3],[1,4,2],[2,3,1],[3,4,1]], distanceThreshold = 2)
+print(result)
+
