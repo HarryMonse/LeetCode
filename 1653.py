@@ -1,0 +1,21 @@
+class Solution:
+    def minimumDeletions(self, s: str) -> int:
+        res = count = 0
+        for c in s:
+            if c == 'b':
+                count += 1
+            elif count:
+                res += 1
+                count -= 1
+        return res
+    
+
+solution_instance = Solution()
+
+result = solution_instance.minimumDeletions(s = "aababbab")
+print(result)
+
+result = solution_instance.minimumDeletions(s = "bbaaaaabb")
+print(result)
+
+
