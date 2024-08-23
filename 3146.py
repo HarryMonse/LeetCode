@@ -6,3 +6,13 @@ class Solution:
             index_t = t.index(char)
             difference += abs(index_s - index_t)
         return difference
+    
+
+solution_instance = Solution()
+
+result = solution_instance.findPermutationDifference(s = "abc", t = "bac")
+print(result)
+
+result = solution_instance.findPermutationDifference(s = "abcde", t = "edbac")
+print(result)
+
