@@ -11,3 +11,15 @@ class Solution:
             else:
                 ans+=0
         return ans
+    
+
+solution_instance = Solution()
+
+result = solution_instance.minOperations(nums = [1,1,1])
+print(result)
+
+result = solution_instance.minOperations(nums = [1,5,2,4,1])
+print(result)
+
+result = solution_instance.minOperations(nums = [8])
+print(result)
