@@ -7,7 +7,7 @@ class Solution:
         for i in nums:
             if nums.count(i) > 1:
                 ans.append(i)
-        return set(ans)
+        return list(set(ans))
     
 
 solution_instance = Solution()
@@ -20,4 +20,3 @@ print(result)
 
 result = solution_instance.getSneakyNumbers(nums = [7,1,5,4,3,4,6,0,9,5,8,2])
 print(result)
-        
