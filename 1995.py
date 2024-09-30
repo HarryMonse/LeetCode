@@ -23,3 +23,4 @@ print(result)
 
 result = solution_instance.countQuadruplets(nums = [1,1,1,3,5])
 print(result)
+
