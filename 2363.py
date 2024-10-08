@@ -22,3 +22,4 @@ print(result)
 
 result = solution_instance.mergeSimilarItems(items1 = [[1,3],[2,2]], items2 = [[7,1],[2,2],[1,4]])
 print(result)
+
