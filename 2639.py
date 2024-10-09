@@ -22,3 +22,4 @@ print(result)
 
 result = solution_instance.findColumnWidth(grid = [[-15,1,3],[15,7,12],[5,6,-2]])
 print(result)
+
