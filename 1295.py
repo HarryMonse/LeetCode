@@ -20,10 +20,4 @@ result = solution_instance.findNumbers(nums = [555,901,482,1771])
 print(result)
 
 
-
-
-
-
-
-
-        
+  
