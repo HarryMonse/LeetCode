@@ -15,3 +15,5 @@ print(result)
 
 result = solution_instance.average(salary = [1000,2000,3000])
 print(result)
+
+
