@@ -17,3 +17,4 @@ print(result)
 
 result = solution_instance.canMakeArithmeticProgression(arr = [1,2,4])
 print(result)
+
