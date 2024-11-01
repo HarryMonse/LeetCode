@@ -20,3 +20,4 @@ print(result)
 
 result = solution_instance.specialArray(nums = [0,4,3,0,4])
 print(result)
+
