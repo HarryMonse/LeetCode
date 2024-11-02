@@ -21,3 +21,4 @@ print(result)
 
 result = solution_instance.isCircularSentence(sentence = "Leetcode is cool")
 print(result)
+
