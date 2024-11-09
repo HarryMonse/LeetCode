@@ -17,4 +17,3 @@ print(result)
 
 result = solution_instance.isBalanced(num = "24123")
 print(result)
-
