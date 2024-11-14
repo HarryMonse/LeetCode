@@ -19,3 +19,4 @@ print(result)
 
 result = solution_instance.makeSmallestPalindrome(s = "seven")
 print(result)
+
