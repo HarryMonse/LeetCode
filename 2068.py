@@ -17,3 +17,4 @@ print(result)
 
 result = solution_instance.checkAlmostEquivalent(word1 = "cccddabba", word2 = "babababab")
 print(result)
+
