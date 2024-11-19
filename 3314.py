@@ -16,9 +16,9 @@ class Solution:
 
 solution_instance = Solution()
 
-result = solution_instance.minBitwiseArray(nums = [0,1,1,0])
+result = solution_instance.minBitwiseArray(nums = [2,3,5,7])
 print(result)
 
-result = solution_instance.minBitwiseArray(nums = [0,3,2,1,3,2])
+result = solution_instance.minBitwiseArray(nums = [11,13,31])
 print(result)
 
