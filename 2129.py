@@ -20,3 +20,4 @@ print(result)
 
 result = solution_instance.capitalizeTitle(title = "i lOve leetcode")
 print(result)
+
