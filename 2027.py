@@ -23,3 +23,4 @@ print(result)
 
 result = solution_instance.minimumMoves(s = "OOOO")
 print(result)
+
