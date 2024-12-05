@@ -16,3 +16,4 @@ print(result)
 
 result = solution_instance.interpret(command = "(al)G(al)()()G")
 print(result)
+
