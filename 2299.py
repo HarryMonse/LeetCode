@@ -24,3 +24,4 @@ print(result)
 
 result = solution_instance.strongPasswordCheckerII(password = "1aB!")
 print(result)
+
