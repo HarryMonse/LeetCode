@@ -18,3 +18,4 @@ print(result)
 
 result = solution_instance.possibleStringCount(word = "aaaa")
 print(result)
+
