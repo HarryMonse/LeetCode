@@ -25,3 +25,4 @@ print(result)
 
 result = solution_instance.findKOr(nums = [10,8,5,9,11,6,8], k = 1)
 print(result)
+
