@@ -22,3 +22,4 @@ print(result)
 
 result = solution_instance.countGoodRectangles(rectangles = [[2,3],[3,7],[4,3],[3,7]])
 print(result)
+
