@@ -16,3 +16,4 @@ print(result)
 
 result = solution_instance.minCostClimbingStairs(cost = [1,100,1,1,1,100,1,1,100,1])
 print(result)
+
