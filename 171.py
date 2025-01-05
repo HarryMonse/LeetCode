@@ -16,3 +16,4 @@ print(result)
 
 result = solution_instance.titleToNumber(columnTitle = "ZY")
 print(result)
+
